@@ -1,16 +1,16 @@
-# 👋 Hey, I'm Ahmad Ansar
+# 👋 Hi, I'm Ahmad Ansar
 
 **Aspiring Security Engineer @ Wentworth Institute of Technology**  
 **Cybersecurity Intern @ State Street** · **SkillsUSA Cybersecurity Competitor**
 
-I’m building hands-on skills in **network security, Linux, and Python**. I like small, practical projects with clear outcomes—things that make systems harder to break and easier to monitor.
+I build practical security projects with **Linux, Python, and networking**. I like small, useful tools and clear write-ups that make systems harder to break and easier to monitor.
 
 ---
 
 ### 🔐 Current Focus
-- Wireshark + packet analysis labs  
-- Linux hardening & bash automation  
-- Security+ prep (notes + labs published)
+- Wireshark packet analysis + subnetting drills  
+- Linux hardening & Bash automation  
+- Security+ prep (concise notes + labs)
 
 ---
 
@@ -25,7 +25,7 @@ I’m building hands-on skills in **network security, Linux, and Python**. I lik
 
 ### 📂 Featured Projects
 - **network-basics** — Packet Tracer labs, subnetting sheets, router/ACL configs  
-- **cyber-labs** — small Python tools (port scanner, password checker, log parser)  
+- **cyber-labs** — small Python/Bash tools (port scanner, password checker, log parser)  
 - **writeups** — short, clear notes from THM/CTFs + Security+ study
 
 ---
