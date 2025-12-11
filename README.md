@@ -32,4 +32,4 @@ I build practical security projects with **Linux, Python, and networking**. I li
 
 ### 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahmadansar)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad55ansar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad@ahmadansar.com)
