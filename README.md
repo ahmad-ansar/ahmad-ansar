@@ -10,8 +10,8 @@ I am looking for Greater Boston internships, co-ops, and entry-level IT or cyber
 
 ## Selected work
 
-- **Isolated Traffic-Flood Lab:** Built a controlled two-VM Ubuntu lab in VirtualBox to observe a test service under a traffic flood. Captured packets in Wireshark, tracked system load, and documented practical mitigations.
-- **Raspberry Pi Home Lab:** Run a Raspberry Pi 4 with Debian for Linux administration, Pi-hole, patching, permissions, service management, and log review.
+- **[Isolated Traffic-Flood Lab](https://github.com/ahmad-ansar/network-basics):** Built a controlled two-VM Ubuntu lab in VirtualBox to observe a test service under a traffic flood. Captured packets in Wireshark, tracked system load, and documented practical mitigations.
+- **[Raspberry Pi Home Lab](https://github.com/ahmad-ansar/cyber-labs):** Run a Raspberry Pi 4 with Debian for Linux administration, Pi-hole, patching, permissions, service management, and log review.
 - **Clinical Trial Matching Prototype:** Co-built a hackathon prototype with clear eligibility logic and an explainable demo flow. We also considered the privacy limits of working with sensitive patient data.
 
 [View the projects on my portfolio](https://ahmad-ansar.github.io/#work)
