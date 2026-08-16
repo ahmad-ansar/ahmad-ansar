@@ -14,7 +14,7 @@ I am looking for Greater Boston internships, co-ops, and entry-level IT or cyber
 - **[Raspberry Pi Home Lab](https://github.com/ahmad-ansar/cyber-labs):** Run a Raspberry Pi 4 with Debian for Linux administration, Pi-hole, patching, permissions, service management, and log review.
 - **Clinical Trial Matching Prototype:** Co-built a hackathon prototype with clear eligibility logic and an explainable demo flow. We also considered the privacy limits of working with sensitive patient data.
 
-[View the projects on my portfolio](https://ahmad-ansar.github.io/#work)
+[View the projects on my portfolio](https://ahmadansar.me)
 
 ## Experience
 
@@ -42,4 +42,4 @@ Completing the Google Cybersecurity Professional Certificate and continuing prac
 
 ## Connect
 
-[Portfolio](https://ahmad-ansar.github.io) | [LinkedIn](https://linkedin.com/in/ahmadansar) | [Email](mailto:ahmad@ahmadansar.com)
+[Portfolio](https://ahmad-ansar.github.io) | [LinkedIn](https://linkedin.com/in/ahmadansar) | [Email](mailto:ahmad@ahmadansar.me)
