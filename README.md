@@ -1,35 +1,45 @@
-# 👋 Hi, I'm Ahmad Ansar
+# Ahmad Ansar
 
-**Aspiring Security Engineer @ Wentworth Institute of Technology**  
-**Cybersecurity Intern @ State Street** · **SkillsUSA Cybersecurity Competitor**
+**Cybersecurity student at Wentworth Institute of Technology | Greater Boston | Class of 2029**
 
-I build practical security projects with **Linux, Python, and networking**. I like small, useful tools and clear write-ups that make systems harder to break and easier to monitor.
+*I am learning security from the systems up.*
 
----
+I am a sophomore building a practical foundation in Linux, networking, and security. My internship at State Street gave me an early look at how security teams work and reinforced the value of clear notes, good questions, and following through.
 
-### 🔐 Current Focus
-- Wireshark packet analysis + subnetting drills  
-- Linux hardening & Bash automation  
-- Security+ prep (concise notes + labs)
+I am looking for Greater Boston internships, co-ops, and entry-level IT or cybersecurity roles. I want to learn an environment properly, support the people who depend on it, and take on more responsibility as I earn it.
 
----
+## Selected work
 
-### 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-EE513B?style=for-the-badge&logo=git&logoColor=white)
+- **Isolated Traffic-Flood Lab:** Built a controlled two-VM Ubuntu lab in VirtualBox to observe a test service under a traffic flood. Captured packets in Wireshark, tracked system load, and documented practical mitigations.
+- **Raspberry Pi Home Lab:** Run a Raspberry Pi 4 with Debian for Linux administration, Pi-hole, patching, permissions, service management, and log review.
+- **Clinical Trial Matching Prototype:** Co-built a hackathon prototype with clear eligibility logic and an explainable demo flow. We also considered the privacy limits of working with sensitive patient data.
 
----
+[View the projects on my portfolio](https://ahmadansar.me/#work)
 
-### 📂 Featured Projects
-- **network-basics** — Packet Tracer labs, subnetting sheets, router/ACL configs  
-- **cyber-labs** — small Python/Bash tools (port scanner, password checker, log parser)  
-- **writeups** — short, clear notes from THM/CTFs + Security+ study
+## Experience
 
----
+- **State Street** | Cybersecurity Intern | Nov 2024 to Feb 2025  
+  Shadowed teams across several security functions, created onboarding documentation, and presented what I learned.
+- **101 Art Studio** | Digital Operations and Social Media Intern | Jun 2025 to Aug 2025  
+  Organized and backed up staff media, wrote a repeatable SOP, and trained staff on the workflow.
+- **Quincy Coders** | Volunteer Instructor and Web Support | Oct 2024 to Apr 2025  
+  Helped K-8 students debug Scratch projects and supported small website updates through GitHub.
 
-### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahmadansar)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad@ahmadansar.com)
+**Recognition:** 2nd place, SkillsUSA District Cybersecurity, 2025
+
+## Current foundation
+
+| Area | Working knowledge |
+| --- | --- |
+| Networking | TCP/IP, subnetting, Wireshark |
+| Systems | Linux CLI, Ubuntu, VirtualBox, Raspberry Pi |
+| Programming | Python, Bash, Java, JavaScript |
+| Workflow | Git/GitHub, technical documentation, troubleshooting |
+
+## Current focus
+
+Completing the Google Cybersecurity Professional Certificate and continuing practical Linux and networking labs.
+
+## Connect
+
+[Portfolio](https://ahmadansar.me) | [LinkedIn](https://linkedin.com/in/ahmadansar) | [Email](mailto:ahmad@ahmadansar.com)
