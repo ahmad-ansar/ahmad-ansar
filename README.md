@@ -1,45 +1,26 @@
 # Ahmad Ansar
 
-**Cybersecurity student at Wentworth Institute of Technology | Greater Boston | Class of 2029**
+Cybersecurity student at Wentworth Institute of Technology, building toward security engineering through Linux, networking, and hands-on lab work.
 
-*I am learning security from the systems up.*
+I am open to Greater Boston and remote co-ops or internships across IT, infrastructure, networking, and security.
 
-I am a sophomore building a practical foundation in Linux, networking, and security. My internship at State Street gave me an early look at how security teams work and reinforced the value of clear notes, good questions, and following through.
+## Selected projects
 
-I am looking for Greater Boston internships, co-ops, and entry-level IT or cybersecurity roles. I want to learn an environment properly, support the people who depend on it, and take on more responsibility as I earn it.
-
-## Selected work
-
-- **[Isolated Traffic-Flood Lab](https://github.com/ahmad-ansar/network-basics):** Built a controlled two-VM Ubuntu lab in VirtualBox to observe a test service under a traffic flood. Captured packets in Wireshark, tracked system load, and documented practical mitigations.
-- **[Raspberry Pi Home Lab](https://github.com/ahmad-ansar/cyber-labs):** Run a Raspberry Pi 4 with Debian for Linux administration, Pi-hole, patching, permissions, service management, and log review.
-- **Clinical Trial Matching Prototype:** Co-built a hackathon prototype with clear eligibility logic and an explainable demo flow. We also considered the privacy limits of working with sensitive patient data.
-
-[View the projects on my portfolio](https://ahmadansar.me)
+- **Linux System Hardening with Lynis:** Audited and hardened a SANS SIFT Ubuntu 20.04 workstation with Lynis, UFW, OpenSSH, PAM policy changes, unattended security updates, and before-and-after scans. Documentation is in progress.
+- **[Traffic Flood Simulation & Packet Analysis](https://github.com/ahmad-ansar/network-basics):** Built an isolated two-VM Ubuntu lab, captured controlled test traffic in Wireshark, monitored system load, and documented mitigations.
+- **[Raspberry Pi Home Lab](https://github.com/ahmad-ansar/cyber-labs):** Maintain a rebuildable Debian lab for Linux administration, local DNS, patching, permissions, service management, and log review.
+- **DeSci Clinical Trial Matcher Prototype:** Co-built an MVP at EasyA x Stellar Harvard Hack-O-Ween that matched patient profiles to trial criteria on Stellar testnet. Documentation is in progress.
 
 ## Experience
 
-- **State Street** | Cybersecurity Intern | Nov 2024 to Feb 2025  
-  Shadowed teams across several security functions, created onboarding documentation, and presented what I learned.
-- **101 Art Studio** | Digital Operations and Social Media Intern | Jun 2025 to Aug 2025  
-  Organized and backed up staff media, wrote a repeatable SOP, and trained staff on the workflow.
-- **Quincy Coders** | Volunteer Instructor and Web Support | Oct 2024 to Apr 2025  
-  Helped K-8 students debug Scratch projects and supported small website updates through GitHub.
-
-**Recognition:** 2nd place, SkillsUSA District Cybersecurity, 2025
-
-## Current foundation
-
-| Area | Working knowledge |
-| --- | --- |
-| Networking | TCP/IP, subnetting, Wireshark |
-| Systems | Linux CLI, Ubuntu, VirtualBox, Raspberry Pi |
-| Programming | Python, Bash, Java, JavaScript |
-| Workflow | Git/GitHub, technical documentation, troubleshooting |
+- **State Street:** Cybersecurity Intern, Nov 2024 to Feb 2025
+- **101 Art Studio (YouthWorks):** Digital Operations & Social Media Intern, Jun 2025 to Aug 2025
+- **Quincy Coders:** Instructor and Web Support, Oct 2024 to Apr 2025
 
 ## Current focus
 
-Completing the Google Cybersecurity Professional Certificate and continuing practical Linux and networking labs.
+Google Cybersecurity Professional Certificate, in progress.
 
 ## Connect
 
-[Portfolio](https://ahmad-ansar.github.io) | [LinkedIn](https://linkedin.com/in/ahmadansar) | [Email](mailto:ahmad@ahmadansar.me)
+[Portfolio](https://ahmadansar.me) | [LinkedIn](https://linkedin.com/in/ahmadansar) | [GitHub](https://github.com/ahmad-ansar) | [Email](mailto:ahmad@ahmadansar.me)
